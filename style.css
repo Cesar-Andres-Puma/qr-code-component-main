@@ -50,6 +50,12 @@ img{
 }
 @media screen and (min-width:1440px) {
     .container{
+        width: 22%;
+        padding: 1%;
+     }
+}
+@media screen and (min-width:1980px) {
+    .container{
         width: 18%;
         padding: 1%;
      }
